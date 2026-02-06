@@ -1,15 +1,19 @@
-# Proyecto QA – Testing funcional de aplicación web
+# Pruebas funcionales de una aplicación web
 
-## Descripción
-Proyecto de testing manual realizado durante mi formación en TripleTen.
+## Contexto del proyecto
+Proyecto de testing manual realizado durante mi formación en TripleTen, enfocado en validar el correcto funcionamiento de una aplicación web.
 
-## Actividades realizadas
-- Análisis de requisitos
-- Creación de casos de prueba
-- Ejecución de pruebas funcionales
-- Reporte de bugs
+## Mi rol como QA Engineer Jr
+- Análisis de requerimientos funcionales
+- Diseño y ejecución de casos de prueba
+- Validación de resultados esperados vs resultados reales
+- Identificación y reporte de defectos
 
-## Herramientas
+## Herramientas utilizadas
+- Pruebas manuales
 - Casos de prueba
 - Checklists
-- Reportes de errores
+- Reportes de bugs
+
+## Conclusiones
+Las pruebas permitieron detectar errores funcionales y mejorar la calidad y estabilidad del producto.
